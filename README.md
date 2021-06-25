@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Aditya, a competitive programmer and a developer.
+I am Priyansh, an Electronics Enthusiast
 
 - 👯 I’m looking to collaborate on open source projects
 - 🌱 I am currently learning C, C++, Python and Verilog
